@@ -1,0 +1,8 @@
+09:05:20.107 [main] INFO  api.test.UserTests - =============== Creating the User =====================
+09:05:21.430 [main] INFO  api.test.UserTests - =============== User is Created =====================
+09:05:21.434 [main] INFO  api.test.UserTests - =============== Reading user Info =====================
+09:05:22.734 [main] INFO  api.test.UserTests - =============== user info reading completed =====================
+09:05:22.738 [main] INFO  api.test.UserTests - =============== updating the User =====================
+09:05:25.718 [main] INFO  api.test.UserTests - =============== User info updated =====================
+09:05:25.724 [main] INFO  api.test.UserTests - =============== Deleting the user =====================
+09:05:27.274 [main] INFO  api.test.UserTests - =============== User Deleted =====================
