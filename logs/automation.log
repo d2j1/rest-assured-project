@@ -6,3 +6,31 @@
 09:05:25.718 [main] INFO  api.test.UserTests - =============== User info updated =====================
 09:05:25.724 [main] INFO  api.test.UserTests - =============== Deleting the user =====================
 09:05:27.274 [main] INFO  api.test.UserTests - =============== User Deleted =====================
+09:38:06.819 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Creating the User =====================
+09:38:07.603 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Reading user Info =====================
+09:38:07.616 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== updating the User =====================
+09:38:07.626 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
+09:43:21.240 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Creating the User =====================
+09:43:22.236 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Reading user Info =====================
+09:43:22.251 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== updating the User =====================
+09:43:22.264 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
+09:44:49.253 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Creating the User =====================
+09:44:50.117 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Reading user Info =====================
+09:44:50.131 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== updating the User =====================
+09:44:50.143 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
+09:46:31.887 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Creating the User =====================
+09:46:33.323 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Reading user Info =====================
+09:46:33.346 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== updating the User =====================
+09:46:33.368 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
+09:53:46.988 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Creating the User =====================
+09:53:48.678 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Reading user Info =====================
+09:53:48.707 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== updating the User =====================
+09:53:48.732 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
+09:58:02.180 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Creating the User =====================
+09:58:06.474 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== User is Created =====================
+09:58:06.487 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Reading user Info =====================
+09:58:07.802 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== user info reading completed =====================
+09:58:07.808 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== updating the User =====================
+09:58:10.443 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== User info updated =====================
+09:58:10.446 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
+09:58:11.683 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== User Deleted =====================

@@ -6,11 +6,15 @@
   </listeners>
   <test thread-count="5" name="PetTest(failed)">
     <classes>
-      <class name="api.test.DataDrivenTests">
+      <class name="api.test.UserTestsUsingPropertiesFilesRoutes">
         <methods>
-          <include name="testDeleteUser" invocation-numbers="9"/>
+          <include name="setup"/>
+          <include name="testUpdateUser"/>
+          <include name="testGetUserByName"/>
+          <include name="testDeleteUserByName"/>
+          <include name="testPostUser"/>
         </methods>
-      </class> <!-- api.test.DataDrivenTests -->
+      </class> <!-- api.test.UserTestsUsingPropertiesFilesRoutes -->
     </classes>
   </test> <!-- PetTest(failed) -->
 </suite> <!-- Failed suite [PetSuite] -->
