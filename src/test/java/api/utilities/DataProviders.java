@@ -44,10 +44,5 @@ public class DataProviders {
         return userNames;
     }
     
-    public static void main(String args[]) {
-		// TODO Auto-generated method stub
-    	for(String a: getUserNames()) {
-    		System.out.println(a);
-    	}
-	}
+ 
 }

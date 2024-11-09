@@ -34,3 +34,27 @@
 09:58:10.443 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== User info updated =====================
 09:58:10.446 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== Deleting the user =====================
 09:58:11.683 [main] INFO  api.test.UserTestsUsingPropertiesFilesRoutes - =============== User Deleted =====================
+10:10:31.520 [main] INFO  api.test.UserTests - =============== Creating the User =====================
+10:10:32.761 [main] INFO  api.test.UserTests - =============== User is Created =====================
+10:10:32.767 [main] INFO  api.test.UserTests - =============== Reading user Info =====================
+10:10:34.400 [main] INFO  api.test.UserTests - =============== user info reading completed =====================
+10:10:34.406 [main] INFO  api.test.UserTests - =============== updating the User =====================
+10:10:37.010 [main] INFO  api.test.UserTests - =============== User info updated =====================
+10:10:37.013 [main] INFO  api.test.UserTests - =============== Deleting the user =====================
+10:10:38.372 [main] INFO  api.test.UserTests - =============== User Deleted =====================
+10:26:31.925 [main] INFO  api.test.UserTests - =============== Creating the User =====================
+10:26:33.263 [main] INFO  api.test.UserTests - =============== User is Created =====================
+10:26:33.266 [main] INFO  api.test.UserTests - =============== Reading user Info =====================
+10:26:34.526 [main] INFO  api.test.UserTests - =============== user info reading completed =====================
+10:26:34.532 [main] INFO  api.test.UserTests - =============== updating the User =====================
+10:26:37.281 [main] INFO  api.test.UserTests - =============== User info updated =====================
+10:26:37.285 [main] INFO  api.test.UserTests - =============== Deleting the user =====================
+10:26:38.670 [main] INFO  api.test.UserTests - =============== User Deleted =====================
+10:30:25.325 [main] INFO  api.test.UserTests - =============== Creating the User =====================
+10:30:26.602 [main] INFO  api.test.UserTests - =============== User is Created =====================
+10:30:26.614 [main] INFO  api.test.UserTests - =============== Reading user Info =====================
+10:30:27.728 [main] INFO  api.test.UserTests - =============== user info reading completed =====================
+10:30:27.735 [main] INFO  api.test.UserTests - =============== updating the User =====================
+10:30:30.127 [main] INFO  api.test.UserTests - =============== User info updated =====================
+10:30:30.130 [main] INFO  api.test.UserTests - =============== Deleting the user =====================
+10:30:31.332 [main] INFO  api.test.UserTests - =============== User Deleted =====================

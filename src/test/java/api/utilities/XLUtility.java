@@ -77,40 +77,40 @@ public class XLUtility {
         }
     }
 
-    public static void main(String[] args) {
-        String filePath = "testData/user_dummy_data.xlsx";
-        XLUtility xlUtility = new XLUtility(filePath, 0); // First sheet (index 0)
-
-        // Get row count
-        int rowCount = xlUtility.getRowCount();
-        System.out.println("Total Rows: " + rowCount);
-
-        // Get cell count in the first row
-        int cellCount = xlUtility.getCellCount(0);
-        System.out.println("Total Cells in first row: " + cellCount);
-
-        // Get data from each cell in the first row (headers)
-        System.out.print("Headers: ");
-        for (int i = 0; i < cellCount; i++) {
-            System.out.print(xlUtility.getCellData(0, i) + "\t");
-        }
-        System.out.println();
-
-        // Get data from all rows and columns
-        System.out.println("\nData from all rows:");
-        for (int rowIndex = 1; rowIndex < rowCount; rowIndex++) {
-            for (int colIndex = 0; colIndex < cellCount; colIndex++) {
-                System.out.print(xlUtility.getCellData(rowIndex, colIndex) + "\t");
-            }
-            System.out.println();
-        }
-
-        // Get data from a specific cell (3rd row, 2nd column)
-        System.out.println("\nData from 3rd row and 2nd column: " +
-                xlUtility.getCellData(2, 1));
-
-        // Close workbook
-        xlUtility.closeWorkbook();
-    }
+//    public static void main(String[] args) {
+//        String filePath = "testData/user_dummy_data.xlsx";
+//        XLUtility xlUtility = new XLUtility(filePath, 0); // First sheet (index 0)
+//
+//        // Get row count
+//        int rowCount = xlUtility.getRowCount();
+//        System.out.println("Total Rows: " + rowCount);
+//
+//        // Get cell count in the first row
+//        int cellCount = xlUtility.getCellCount(0);
+//        System.out.println("Total Cells in first row: " + cellCount);
+//
+//        // Get data from each cell in the first row (headers)
+//        System.out.print("Headers: ");
+//        for (int i = 0; i < cellCount; i++) {
+//            System.out.print(xlUtility.getCellData(0, i) + "\t");
+//        }
+//        System.out.println();
+//
+//        // Get data from all rows and columns
+//        System.out.println("\nData from all rows:");
+//        for (int rowIndex = 1; rowIndex < rowCount; rowIndex++) {
+//            for (int colIndex = 0; colIndex < cellCount; colIndex++) {
+//                System.out.print(xlUtility.getCellData(rowIndex, colIndex) + "\t");
+//            }
+//            System.out.println();
+//        }
+//
+//        // Get data from a specific cell (3rd row, 2nd column)
+//        System.out.println("\nData from 3rd row and 2nd column: " +
+//                xlUtility.getCellData(2, 1));
+//
+//        // Close workbook
+//        xlUtility.closeWorkbook();
+//    }
 
 }
